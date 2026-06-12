@@ -176,7 +176,7 @@
   {
     "id": 30,
     "fact": "The Japanese word 'boketto' (ぼけっと) describes the act of gazing vacantly into the distance without thinking about anything specific.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -374,7 +374,7 @@
   {
     "id": 63,
     "fact": "There's a Japanese word 'aware' (哀れ) that originally just meant 'ah!' - an exclamation that evolved to represent deep emotion.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -398,7 +398,7 @@
   {
     "id": 67,
     "fact": "There's a Japanese practice called 'kuuki wo yomu' (空気を読む) - reading the air - understanding unspoken social cues.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -500,7 +500,7 @@
   {
     "id": 84,
     "fact": "Japan has 'crying rooms' in some theaters where parents can watch movies with babies without disturbing other viewers.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -572,7 +572,7 @@
   {
     "id": 96,
     "fact": "Japan has some of the world's oldest trees - a Japanese cedar called Jōmon Sugi on Yakushima is estimated to be 2,000-7,000 years old.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -752,7 +752,7 @@
   {
     "id": 126,
     "fact": "Japan's streets are so safe that children as young as 6 commute alone on public trains to school every day.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -776,7 +776,7 @@
   {
     "id": 130,
     "fact": "Japan has a toilet museum in Kitakyushu where you can slide down a giant toilet and learn about sewage history.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -819,7 +819,9 @@
     "id": 137,
     "fact": "The Japanese word 'okashi' (おかしい) means both 'funny' and 'strange' - humor and oddity are deeply connected.",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "DPug888",
+    "completedPR": 20230
   },
   {
     "id": 138,
@@ -1604,7 +1606,7 @@
   {
     "id": 268,
     "fact": "The word 'komachi' (小町) is used in place names to reference elegance, inspired by the legendary beauty Ono no Komachi.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1628,7 +1630,7 @@
   {
     "id": 272,
     "fact": "The phrase 'okagesama de' is used to reply modestly to compliments, similar to saying 'thanks to your support'.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
