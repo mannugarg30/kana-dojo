@@ -290,7 +290,7 @@
   {
     "id": 49,
     "fact": "The word 'amae' (甘え) describes depending on another's goodwill - a uniquely Japanese concept of presuming on someone's affection.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1112,7 +1112,7 @@
   {
     "id": 186,
     "fact": "Japan has a tradition of giving 'otoshidama' (お年玉) - money in special envelopes to children on New Year's.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
